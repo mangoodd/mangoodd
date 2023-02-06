@@ -6,7 +6,7 @@
 
 ### Языки и инструменты:
 
-<img alt="pyCharm" src="image/pyCharm.png" width="30"/>
+<img align = "left" alt="pyCharm" src="image/pyCharm.png" width="30"/>
 <img alt="Python" src="image/python.png" width="30"/>
 <img alt="Html5" src="image/html5.png" width="30"/>
 <img alt="Css3" src="image/css.png" width="30"/>
