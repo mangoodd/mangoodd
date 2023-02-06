@@ -5,7 +5,7 @@
 ## Я Junior Python разработчик.
 
 ### Языки и инструменты:
-<br>
+
 <img align="left" alt="pyCharm" src="image/pyCharm.png" width="30"/>
 <img align="left" alt="Python" src="image/python.png" width="30"/>
 <img align="left" alt="Html5" src="image/html5.png" width="30"/>
@@ -15,7 +15,6 @@
 <img align="left" alt="StarUML" src="image/StarUML.png" width="30"/>
 <img align="left" alt="Git" src="image/VirtualParadigm.png" width="28"/>
 <img align="left" alt="PHP" src="image/php.png" width="50"/>
-<br/>
 
 <!--
 **mangoodd/mangoodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
