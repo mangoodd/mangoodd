@@ -1,10 +1,10 @@
 # Welcome!
 
-## Меня зовут Ярослав
+## About me
+My name is Yaroslaw, I am 24 years old. I am programming in Python.
 
-## Я Junior Python разработчик.
 
-### Языки и инструменты:
+### Languages and tools
 
 <img align="left" alt="pyCharm" src="image/pyCharm.png" width="30"/>
 <img align="left" alt="Python" src="image/python.png" width="30"/>
@@ -15,4 +15,3 @@
 <img align="left" alt="StarUML" src="image/StarUML.png" width="30"/>
 <img align="left" alt="Git" src="image/VirtualParadigm.png" width="28"/>
 <img align="left" alt="PHP" src="image/php.png" width="50"/>
-
