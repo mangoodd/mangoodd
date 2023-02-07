@@ -1,5 +1,8 @@
 # Hi, there!
 
+<img align="left" alt="pyCharm" src="image/header.png"/>
+<br/>
+
 ## About me
 
 I am 24 years old. I am programming in Python, and it's my passion.
@@ -20,6 +23,7 @@ I am 24 years old. I am programming in Python, and it's my passion.
 <br/>
 
 ### 📫 How to reach me:
+
 <div>
     <a href="https://t.me/OZyaroslav">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue">
