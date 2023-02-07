@@ -4,7 +4,7 @@
 My name is Yaroslaw, I am 24 years old. I am programming in Python.
 
 
-### :hammer_and_wrench: Languages and tools
+### Languages and tools
 
 <img align="left" alt="pyCharm" src="image/pyCharm.png" width="30"/>
 <img align="left" alt="Python" src="image/python.png" width="30"/>
