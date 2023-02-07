@@ -1,5 +1,4 @@
-<img align="center" alt="Salutation" src="image/salutationV2.png"/>
-
+# Hi, there!
 
 ## About me
 
