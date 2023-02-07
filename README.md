@@ -1,4 +1,4 @@
-<img align="center" alt="Salutation" src="image/salutation.png" width=""/>
+<img align="center" alt="Salutation" src="image/salutation.png"/>
 
 
 ## About me
