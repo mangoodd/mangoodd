@@ -3,7 +3,7 @@
 
 ## About me
 
-My name is Yaroslav, I am 24 years old. I am programming in Python.
+I am 24 years old. I am programming in Python, and it's my passion.
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -25,9 +25,8 @@ My name is Yaroslav, I am 24 years old. I am programming in Python.
     <a href="https://t.me/OZyaroslav">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue">
     </a>
-<br/>
     <a href="mailto:ozerovyaroslav25@gmail.com">
-        <img alt="e-mail" src="https://img.shields.io/badge/mail-red">
+        <img alt="e-mail" src="https://img.shields.io/badge/email-red">
     </a>
 </div>
 
