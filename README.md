@@ -1,7 +1,8 @@
 # Hi, there!
 
 <img align="left" alt="pyCharm" src="image/header.png"/>
-<br/>
+
+##
 
 ## About me
 
