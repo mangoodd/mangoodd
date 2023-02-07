@@ -18,10 +18,9 @@ My name is Yaroslav, I am 24 years old. I am programming in Python.
 <img align="left" alt="PHP" src="image/php.png" width="50"/>
 
 <br/>
+<br/>
 
-## 📫 How to reach me:
-[ozerovyaroslav25@gmail.com]()
-
+### 📫 How to reach me:
 <div>
     <a href="https://t.me/OZyaroslav">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue">
