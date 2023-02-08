@@ -4,19 +4,6 @@
 
 <h3 align="center">Developer on Python</h3>
 
-<p align="center">
-    <img align="left" alt="pyCharm" src="image/header.png" />
-</p>
-
-<!-- don't look here -->
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<!-- don't look here -->
-
 ---
 
 ### About me
@@ -48,5 +35,10 @@ I am 24 years old. I am programming in Python, and it's my passion.
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white">
 </a>
 
+---
+
 [//]: # ([![codewars]&#40;https://www.codewars.com/users/mangoodd/badges/small&#41;]&#40;https://www.codewars.com/users/mangoodd&#41;)
-      
+
+<p align="center">
+    <img align="left" alt="pyCharm" src="image/header.jpg"/>
+</p>
