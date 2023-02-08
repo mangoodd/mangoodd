@@ -1,12 +1,23 @@
-# Hi, there!
+<h1 align="center" >
+<font face="Cambria">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Yaroslav!</font>
+</h1>
 
-<img align="left" alt="pyCharm" src="image/header.png"/>
+<h3 align="center">Developer on Python</h3>
 
-<br>
 
-## About me
+<p align="center" style="padding-bottom: 60px">
+    <img align="left" alt="pyCharm" src="image/header.png" />
+</p>
+
+<br/>
+<br/>
+
+### About me
 
 I am 24 years old. I am programming in Python, and it's my passion.
+
+- 🌱 I’m currently learning: Go language
+- ⚡ Fun fact: I really sleep at night
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -22,17 +33,11 @@ I am 24 years old. I am programming in Python, and it's my passion.
 
 <br>
 
-
 ### 📫 How to reach me:
 
-<div>
-    <a href="https://t.me/OZyaroslav">
-        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue">
-    </a>
-    <a href="mailto:ozerovyaroslav25@gmail.com">
-        <img alt="e-mail" src="https://img.shields.io/badge/email-red">
-    </a>
-</div>
+<a href="https://t.me/OZyaroslav">
+    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white">
+</a>
 
 [//]: # ([![codewars]&#40;https://www.codewars.com/users/mangoodd/badges/small&#41;]&#40;https://www.codewars.com/users/mangoodd&#41;)
       
