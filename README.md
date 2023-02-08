@@ -2,7 +2,7 @@
 
 <img align="left" alt="pyCharm" src="image/header.png"/>
 
-##
+<br>
 
 ## About me
 
@@ -20,8 +20,8 @@ I am 24 years old. I am programming in Python, and it's my passion.
 <img align="left" alt="Git" src="image/VirtualParadigm.png" width="28"/>
 <img align="left" alt="PHP" src="image/php.png" width="50"/>
 
-<br/>
-<br/>
+<br>
+
 
 ### 📫 How to reach me:
 
