@@ -37,7 +37,7 @@ I am 24 years old. I am programming in Python, and it's my passion.
 
 [//]: # ([![codewars]&#40;https://www.codewars.com/users/mangoodd/badges/small&#41;]&#40;https://www.codewars.com/users/mangoodd&#41;)
 <br>
-<br>
+
 <p align="center">
     <img align="left" alt="pyCharm" src="image/header.png"/>
 </p>
