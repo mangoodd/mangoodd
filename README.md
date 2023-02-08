@@ -17,6 +17,8 @@
 <br/>
 <!-- don't look here -->
 
+---
+
 ### About me
 
 I am 24 years old. I am programming in Python, and it's my passion.
