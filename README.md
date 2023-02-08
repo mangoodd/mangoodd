@@ -4,13 +4,15 @@
 
 <h3 align="center">Developer on Python</h3>
 
-
-<p align="center" style="padding-bottom: 60px">
+<div>
+<p align="center" style="padding-bottom: 60px; margin-bottom: 100px">
     <img align="left" alt="pyCharm" src="image/header.png" />
 </p>
-
+<br>
+<br>
 <br/>
 <br/>
+</div>
 
 ### About me
 
