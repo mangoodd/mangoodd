@@ -4,15 +4,18 @@
 
 <h3 align="center">Developer on Python</h3>
 
-<div>
-<p align="center" style="padding-bottom: 60px; margin-bottom: 100px">
+<p align="center">
     <img align="left" alt="pyCharm" src="image/header.png" />
 </p>
-<br>
-<br>
+
+<!-- don't look here -->
 <br/>
 <br/>
-</div>
+<br/>
+<br/>
+<br/>
+<br/>
+<!-- don't look here -->
 
 ### About me
 
@@ -34,6 +37,8 @@ I am 24 years old. I am programming in Python, and it's my passion.
 <img align="left" alt="PHP" src="image/php.png" width="50"/>
 
 <br>
+
+---
 
 ### 📫 How to reach me:
 
